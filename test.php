@@ -4,7 +4,7 @@ require_once 'EpiOAuth.php';
 require_once 'EpiFoursquare.php';
 require_once 'EpiSequence.php';
 
-// Comment
+// Comme
 
 $clientId = 'L0T1WUU1BRTXS4Z1VEY2EOJ4RS1IFOOAF5QGKW1JGUKUNANH';
 $clientSecret = 'WPTHDVTRDWOEOSY2FQFKQWEWJ2KV3RTW0XJ5KYLELZGR2LD1';
